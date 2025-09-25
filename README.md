@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Erick Santiago Gallo Buriticá</h1>
 
 <p align="center">
-  🚀 Lawyer & Systems Engineer | 💡 Passionate about Web Development, Data Analysis, and Innovative Apps
+  🚀 Lawyer & Systems Engineer | 💡 Passionate about Web Development, Data Analysis, Innovative Apps, and Videogames
 </p>
 
 ---
