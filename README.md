@@ -31,7 +31,7 @@
 ---
 
 ## 📌 Featured Projects
-- 🎮 **Huevos de la Ciudad** → Indie game in development.  
+- 🎮 **Ibahuecos** → Indie game in development.  
 - 📊 **iPhone Acceptance Analysis** → Data project analyzing quality & acceptance of devices across stores.  
 - ⚖️ **Abogados Ya** → A platform connecting people with lawyers, with full-stack development and data analysis.  
 
