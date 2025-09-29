@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 - ⚖️ I started my career as a lawyer, but my passion for technology led me into software engineering.  
-- 🎮 Currently building **"Huevos de la Ciudad"**, an indie game.  
+- 🎮 Currently building **"IbaHuecos"**, an indie game.  
 - 📱 Publishing apps on **Google Play Store** (free & paid versions).  
 - 📊 Experienced in **data analysis** with Python (Pandas, NumPy) and **Power BI**.  
 - 🌱 Always learning and contributing to projects that combine **law + tech + data**.  
